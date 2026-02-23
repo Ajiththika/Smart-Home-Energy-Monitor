@@ -1,5 +1,5 @@
-1,Air Conditioner,1500,8,Living Room
-2,Refrigerator,200,24,Kitchen
-3,Washing Machine,500,1,Laundry
-4,TV,120,5,Living Room
-5,Lights,60,10,Bedroom
+1|Air Conditioner|1500|8|Living Room
+2|Refrigerator|200|24|Kitchen
+3|Washing Machine|500|1|Laundry
+4|TV|120|5|Living Room
+5|Lights|60|10|Bedroom
